@@ -58,6 +58,7 @@ This dashboard is built using Python and several dependencies. The following pac
 - **mysql-connector-python**: A connector to interface with MySQL from Python.
 
 ### **Install Dependencies**
-To install the necessary dependencies, you can use the `requirements.txt` file:
-```bash
-pip install -r requirements.txt
+To install the necessary dependencies, you can use the pandas
+streamlit
+plotly
+mysql-connector-python
